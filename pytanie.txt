@@ -1,0 +1,177 @@
+Najwieksza pustynia swiata to?|Sahara|Antarktyda|Kalahari|Atakama|2
+Ile wojewodztw ma Polska?|12|14|16|18|3
+Ktore miasto jest stolica Norwegii?|Oslo|Bergen|Trondheim|Kopenhaga|1
+Ktora planeta jest najblizej Slonca?|Wenus|Merkury|Mars|Ziemia|2
+Ktory kierowca F1 zginal w 1994 roku w Imoli?|Senna|Lauda|Prost|Berger|1
+Najwieksza planeta w Ukladzie Slonecznym to?|Mars|Ziemia|Jowisz|Saturn|3
+Ktory kontynent jest najmniejszy?|Europa|Australia|Antarktyda|Ameryka Polnocna|2
+Ktore miasto bylo pierwsza stolica Polski?|Poznan|Gniezno|Krakow|Plock|2
+Ktore miasto jest stolica Wielkopolski?|Poznan|Gniezno|Kalisz|Leszno|1
+Najglebsze jezioro na swiecie to?|Bajkal|Tanganika|Gorne|Wiktorii|1
+Ktory zespol F1 ma najwiecej zwyciestw w historii?|Ferrari|Mercedes|Red Bull|McLaren|1
+Ktore miasto jest stolica Hiszpanii?|Barcelona|Madryt|Walencja|Sewilla|2
+Ktory ocean jest najwiekszy?|Atlantycki|Spokojny|Indyjski|Arktyczny|2
+Ktory gaz dominuje w atmosferze Ziemi?|Tlen|Azot|CO2|Hel|2
+Najdluzsza rzeka w Polsce to?|Odra|Wisla|Warta|Bug|2
+Ile to 17 * 9?|160|148|154|153|4
+Najwiekszy ssak na Ziemi to?|Slon|Plastwon|Plast|Wieloryb blekitny|4
+Ktory kraj ma najwieksza populacje?|USA|Indie|Chiny|Indonezja|3
+Najwieksza pustynia swiata to?|Antarktyda|Sahara|Kalahari|Atakama|1
+Ktory kraj ma najwiecej aktywnych wulkanow?|Japonia|Indonezja|USA|Chile|2
+Ktory kraj ma najwiecej medali olimpijskich w historii?|USA|Rosja|Chiny|Niemcy|1
+Ktory zespol F1 dolaczyl od 2026 roku?|Alpine|Haas|Cadilac|VW|3
+Ktore morze lezace przy Polsce jest najplytsze?|Baltyckie|Czarne|Srodziemne|Japonskie|1
+Najwieksze jezioro w Polsce to?|Sniardwy|Mamry|Hancza|Wigry|1
+Ile to 15 * 15?|218|225|215|229|2
+Ile to 8 * 6?|55|48|47|53|2
+Ktory kierowca F1 ma najwiecej tytulow mistrza swiata?|Verstappen|Schumacher|Vettel|Senna|2
+Ktory kraj wynalazl papier?|Egipt|Chiny|Indie|Persja|2
+Ile to 12 * 6?|78|70|77|72|4
+Ktore miasto jest stolica Czech?|Praga|Brno|Ostrawa|Pilzno|1
+Ktory kierowca F1 jest znany jako 'Iceman'?|Raikkonen|Button|Rosberg|Hakkinen|1
+Ile to 2 * 3?|7|16|3|6|4
+Ile to 12 * 8?|96|86|103|90|1
+Ktory kraj ma najwieksza powierzchnie?|Kanada|USA|Rosja|Chiny|3
+Ile to 8 * 20?|157|159|155|160|4
+Ile to 3 * 2?|13|2|6|5|3
+Ile to 6 * 9?|54|53|51|44|1
+Ile to 10 * 5?|50|48|51|41|1
+Ile to 3 * 13?|47|33|39|38|3
+Ile to 13 * 13?|166|171|169|174|3
+Ile to 7 * 16?|112|110|119|120|1
+Ile to 11 * 2?|32|27|15|22|4
+Ile to 15 * 16?|240|248|249|241|1
+Ile to 19 * 10?|187|183|196|190|4
+Ile to 12 * 12?|153|152|144|137|3
+Ile to 4 * 12?|49|48|43|41|2
+Ile to 13 * 6?|87|78|80|84|2
+Ile to 11 * 16?|176|173|168|184|1
+Ile to 6 * 10?|65|67|60|55|3
+Ile to 5 * 19?|93|99|95|100|3
+Ile to 17 * 3?|60|45|46|51|4
+Ile to 7 * 11?|70|77|75|69|2
+Ile to 2 * 19?|37|47|33|38|4
+Ile to 20 * 6?|130|110|120|116|3
+Ile to 14 * 20?|280|289|278|287|1
+Ile to 7 * 19?|133|138|123|128|1
+Ile to 12 * 16?|192|197|186|193|1
+Ile to 11 * 6?|61|62|64|66|4
+Ktory element samolotu odpowiada za sterowanie w osi pionowej?|Lotki|Ster wysokosci|Ster kierunku|Klapy|2
+Jak nazywa sie miejsce, z ktorego pilot steruje samolotem?|Kabina pasazerska|Kokpit|Luk bagazowy|Kadlub|2
+Co oznacza skrot ICAO w lotnictwie?|Miedzynarodowa Organizacja Lotnictwa Cywilnego|Europejska Agencja Lotnicza|Organizacja Kontroli Lotow|Miedzynarodowe Prawo Lotnicze|1
+Jak nazywa sie glowna czesc konstrukcji samolotu?|Skrzydlo|Kadlub|Statecznik|Podwozie|2
+Ktory przyrzad pokladowy pokazuje wysokosc lotu?|Predkosciomierz|Wysokosciomierz|Sztuczny horyzont|Busola|2
+Co sluzy do zmniejszenia predkosci samolotu podczas ladowania?|Dopalacz|Klapy|Lotki|Ster kierunku|2
+Jak nazywa sie pas startowy na lotnisku?|Droga kolowania|Pas startowy|Plyta lotniska|Terminal|2
+Jak nazywa sie urzadzenie rejestrujace dane lotu?|Radar|Czarna skrzynka|Transponder|Autopilot|2
+Co oznacza skrot ICAO w lotnictwie cywilnym?|Miedzynarodowa Organizacja Lotnicza|Miedzynarodowa Organizacja Lotnictwa Cywilnego|Miedzynarodowe Centrum Operacji Powietrznych|Instytut Kontroli Operacji Lotniczych|2
+Jak nazywa sie manewr przerwania ladowania?|Touch and go|Go around|Holding|Mayday|2
+Ktory samolot jest najwiekszym pasazerskim samolotem swiata?|Boeing 747|Boeing 777|Airbus A380|Airbus A350|3
+Co oznacza sygnal Mayday?|Rutynowa wiadomosc|Prosbe o zgode na ladowanie|Sytuacje zagrozenia zycia|Koniec lotu|3
+Jak nazywa sie wysokosc lotu mierzona wzgledem poziomu morza?|AGL|FL|MSL|QNH|3
+Co oznacza skrot VFR?|Lot wedlug wskazan przyrzadow|Lot wizualny|Lot wojskowy|Lot szkoleniowy|2
+Ktory kraj jest producentem samolotow Boeing?|Niemcy|Francja|USA|Kanada|3
+Jak nazywa sie osoba kierujaca ruchem lotniczym?|Pilot|Mechanik|Kontroler ruchu lotniczego|Dispatcher|3
+Kto byl pierwszym krolem Polski?|Mieszko I|Boleslaw Chrobry|Kazimierz Wielki|Wladyslaw Jagiello|2
+W ktorym roku Polska przyjela chrzest?|966|1000|1025|1410|1
+Ktory wladca zjednoczyl Polske po rozbiciu dzielnicowym?|Wladyslaw Lokietek|Kazimierz Wielki|Boleslaw Smialy|Mieszko II|1
+W ktorym roku odbyla sie bitwa pod Grunwaldem?|1409|1410|1411|1385|2
+Kto byl ostatnim krolem z dynastii Piastow?|Wladyslaw Lokietek|Kazimierz Wielki|Przemysl II|Boleslaw Krzywousty|2
+Jak nazywala sie unia Polski z Litwa z 1385 roku?|Unia lubelska|Unia wilenska|Unia horodelska|Unia w Krewie|4
+Ktory krol przeniosl stolice Polski do Warszawy?|Zygmunt I Stary|Zygmunt III Waza|Stefan Batory|Wladyslaw IV|2
+Jak nazywal sie parlament w dawnej Rzeczypospolitej?|Senat|Sejm|Rada Krolewska|Wiec|2
+Co oznaczalo liberum veto?|Prawo krola|Prawo sprzeciwu jednego posla|Glosowanie wiekszosciowe|Zakaz glosowania|2
+W ktorym roku uchwalono Konstytucje 3 maja?|1772|1791|1795|1764|2
+Ile bylo rozbiorow Polski?|Dwa|Trzy|Cztery|Jeden|2
+W ktorym roku Polska odzyskala niepodleglosc?|1914|1918|1920|1939|2
+Kto byl pierwszym prezydentem II RP?|Jozef Pilsudski|Ignacy Moscicki|Gabriel Narutowicz|Wladyslaw Sikorski|3
+Jak nazywala sie wojna z bolszewikami w latach 1919–1921?|I wojna swiatowa|Powstanie styczniowe|Wojna polsko-bolszewicka|II wojna swiatowa|3
+W ktorym roku wybuchla II wojna swiatowa?|1938|1939|1940|1941|2
+Jak nazywal sie plan odbudowy Europy po II wojnie swiatowej?|Plan Dawesa|Plan Marshalla|Plan Schumana|Plan Monneta|2
+Kto byl przywodca Solidarnosci?|Lech Walesa|Tadeusz Mazowiecki|Wojciech Jaruzelski|Bronislaw Geremek|1
+W ktorym roku wprowadzono stan wojenny w Polsce?|1976|1980|1981|1989|3
+W ktorym roku Polska wstapila do Unii Europejskiej?|1999|2001|2004|2007|3
+Jaka jest jednostka sily w ukladzie SI?|Dzul|Wat|Niuton|Paskal|3
+Ktora wielkosc opisuje opor elektryczny?|Napiece|Natezenie|Moc|Rezystancja|4
+Jak nazywa sie prawo opisujace zaleznosc napiecia, natezenia i oporu?|Prawo Pascala|Prawo Ohma|Prawo Archimedesa|Prawo Newtona|2
+Jaka jest predkosc swiatla w prozni (okolo)?|300 km/s|300 000 km/s|150 000 km/s|3 000 km/s|2
+Ktora czastka ma ladunek ujemny?|Proton|Neutron|Elektron|Foton|3
+Jak nazywa sie jednostka energii?|Wat|Dzul|Niuton|Amper|2
+Ktore zjawisko polega na zalamaniu swiatla?|Dyfrakcja|Odbicie|Refrakcja|Polaryzacja|3
+Co mierzy amperomierz?|Napiece|Opor|Natezenie pradu|Moc|3
+Ktora planeta ma najwieksza grawitacje?|Ziemia|Mars|Jowisz|Saturn|3
+Jak nazywa sie energia zwiazana z ruchem?|Energia potencjalna|Energia kinetyczna|Energia cieplna|Energia jadrowa|2
+Jakie jest oznaczenie napiecia elektrycznego?|I|R|U|P|3
+Ktora wielkosc jest mierzona w hercach?|Predkosc|Czestotliwosc|Energia|Moc|2
+Co jest zrodlem pola magnetycznego?|Ladunek spoczywajacy|Poruszajacy sie ladunek|Neutron|Foton|2
+Jak nazywa sie zjawisko unoszenia ciala w cieczy?|Inercja|Grawitacja|Wypor|Tarcie|3
+Ktory gaz jest najlzejszy?|Tlen|Azot|Hel|Wodor|3
+Jaka jednostke ma moc?|Dzul|Wat|Amper|Wolt|2
+Jak nazywa sie osoba dowodzaca statkiem?|Kapitan|Bosman|Marynarz|Mechanik|1
+Jak nazywa sie przod statku?|Rufa|Burta|Dziob|Poklad|3
+Jak nazywa sie tyl statku?|Dziob|Rufa|Burta|Maszt|2
+Jak nazywa sie lewa strona statku patrzac na dziob?|Sterburta|Bakburta|Lewa burta|Prawa burta|2
+Jak nazywa sie prawa strona statku?|Bakburta|Lewa burta|Sterburta|Prawa burta|3
+Jak nazywa sie miejsce, z ktorego steruje sie statkiem?|Maszynownia|Mostek|Poklad|Kajuta|2
+Ktore urzadzenie napedza statek?|Ster|Sruba napedowa|Kotwica|Radar|2
+Do czego sluzy kotwica?|Zwieksza predkosc|Zatrzymuje statek|Steruje statkiem|Nadaje sygnal|2
+Ktory typ statku przewozi rope naftowa?|Kontenerowiec|Masowiec|Tankowiec|Prom|3
+Jak nazywa sie statek przewozacy kontenery?|Masowiec|Prom|Kontenerowiec|Lodolamacz|3
+Jak nazywa sie statek pasazerski kursujacy regularnie?|Prom|Jacht|Holownik|Zaglowiec|1
+Do czego sluzy radar morski?|Do gotowania|Do wykrywania przeszkod|Do naprawy statku|Do komunikacji|2
+Jak nazywa sie czesc statku stabilizujaca go w wodzie?|Maszt|Ster|Kil|Kotwica|3
+Ktory statek sluzy do kruszenia lodu?|Prom|Tankowiec|Lodolamacz|Holownik|3
+Jak nazywa sie minimalna glebokosc zanurzenia statku?|Wyprnosc|Nosnosc|Zanurzenie|Wolna burta|3
+Jak nazywa sie statek sluzacy do holowania innych?|Holownik|Prom|Masowiec|Jacht|1
+Jak nazywa sie pomieszczenie dla zalogi?|Kajuta|Maszynownia|Mostek|Ladownia|1
+Ile planet ma Uklad Sloneczny?|7|8|9|10|2
+Ktore zwierze jest najszybsze na ladzie?|Lew|Gepard|Antylopa|Kon|2
+Jaka temperature ma wrzaca woda w stopniach Celsjusza?|90|95|100|110|3
+Ktory metal jest ciekly w temperaturze pokojowej?|Olow|Rtec|Cyna|Aluminium|2
+Jaka jest calka z x dx?|x^2|x^2/2|2x|ln(x)|2
+Jaka jest calka z 1 dx?|x|1|0|ln(x)|1
+Jaka jest calka z 2x dx?|x^2|2x^2|x^3|2x + 2|1
+Jaka jest calka z x^2 dx?|x^3|x^3/2|x^3/3|2x^3|3
+Jaka jest calka z sin(x) dx?|cos(x)|-cos(x)|sin(x)|-sin(x)|2
+Jaka jest calka z cos(x) dx?|sin(x)|-sin(x)|cos(x)|-cos(x)|1
+Jaka jest calka z 1/x dx?|x|ln(x)|1/x^2|e^x|2
+Jaka jest calka z 5 dx?|5x|x|0|ln(5)|1
+Jaka jest calka z 3x^2 dx?|x^3|3x^3|x^3|x^3* 3|3
+Jaka jest calka z -2x dx?|x^2|-x^2|2x^2|-2x^2|2
+Jaka jest calka z tan(x) dx?|ln(cos x)|-ln(cos x)|ln(sin x)|sin(x)|2
+Jaka jest calka z 1/(x^2) dx?|ln(x)|-1/x|1/x|x|2
+Jaka jest calka z ln(x) dx?|x ln(x)|x ln(x) - x|ln(x^2)|1/x|2
+Ktora liczba NIE jest pierwsza?|2|3|5|9|4
+Ile zer ma silnia 100!?|10|20|24|50|3
+Ktora z tych liczb jest niewymierna?|2|√4|π|1/2|3
+Ile stopni ma kat wewnetrzny pieciokata foremnego?|90|108|120|135|2
+Jesli x + x = x, to x wynosi?|0|1|2|Brak rozwiazania|1
+Ktora planeta obraca sie najszybciej wokol wlasnej osi?|Ziemia|Mars|Jowisz|Wenus|3
+Ktora liczba w zapisie rzymskim jest bledna?|XIX|XL|IL|CM|3
+Ile jest liczb pierwszych mniejszych od 20?|6|7|8|9|3
+Co jest ciezsze?|1 kg pior|1 kg zelaza|To samo|Zalezy od grawitacji|3
+Ktory z tych pierwiastkow NIE jest metalem?|Zelazo|Sod|Tlen|Miedz|3
+Jesli 5 maszyn robi 5 czesci w 5 minut, ile maszyn zrobi 100 czesci w 100 minut?|5|10|20|100|1
+Ktora figura ma najmniejszy obwod przy danym polu?|Kwadrat|Trojkat|Kolo|Prostokat|3
+Ktora z tych liczb w systemie binarnym oznacza 10?|1010|1001|1100|1111|1
+Jaka liczba jest 0?|Dodatnia|Ujemna|Ani dodatnia ani ujemna|Pierwsza|3
+Ktora z tych jednostek NIE jest jednostka SI?|Wat|Niuton|Cal|Amper|3
+Ile bokow ma wielokat foremny o kacie wewnetrznym 150°?|10|11|12|15|3
+Ktory z tych znakow logicznych oznacza negacje?|AND|OR|XOR|NOT|4
+Ile scian ma szescian?|4|5|6|8|3
+Ktora z tych liczb jest najwieksza?|2^10|10^2|5^3|3^5|1
+Jesli dzis jest poniedzialek, jaki dzien bedzie za 100 dni?|Wtorek|Sroda|Czwartek|Piatek|3
+Ktory kraj jest jedynym na swiecie, ktorego flaga nie jest prostokatna?|Szwajcaria|Nepal|Bhutan|Monako|2
+Ktory pierwiastek chemiczny ma najwiecej izotopow stabilnych?|Wodor|Wegiel|Olow|Cynk|3
+Jak nazywa sie najstarsza znana cywilizacja w historii ludzkosci?|Mezopotamia|Egipt|Indus|Chiny|1
+Ktore zwierze jest uwazane za najinteligentniejsze po czlowieku?|Delfin|Szympans|Slon|Kruk|1
+Kto byl pierwszym czlowiekiem, ktory wyladowal na Ksiezycu?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Michael Collins|2
+Jakie miasto jest siedziba Miedzynarodowego Trybunalu Sprawiedliwosci?|Genewa|Haga|Nowy Jork|Paryz|2
+Ktore panstwo jest najwieksze pod wzgledem powierzchni?|Kanada|Chiny|Rosja|USA|3
+Ktora wojna byla bezposrednia przyczyna rozpadu Imperium Austro-Weegierskiego?|I wojna swiatowa|II wojna swiatowa|Wojna siedmioletnia|Wojna krymska|1
+Ktora choroba byla pierwsza, ktora udalo sie calkowicie wyeliminowac dzieki szczepionkom?|Ospa prawdziwa|Polio|Odra|Błonica|1
+Kto napisal "Dzieje filozofii" w starozytnej Grecji?|Platon|Arystoteles|Diogenes|Diodoros Siculus|4
+Ktore z tych panstw nie graniczy z Morzem Srodziemnym?|Bulgaria|Wlochy|Grecja|Liban|1
+Jak nazywa sie najwiekszy ksiezyc Saturna?|Tytan|Enceladus|Dione|Rhea|1
+Ktory malarz jest uwazany za tworce kubizmu?|Pablo Picasso|Salvador Dali|Claude Monet|Vincent van Gogh|1
+Ile lat mial najmlodszy zwiciezca grand prix f1?|16|17|18|19|3
